@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders PageProgress correctly 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "height": 4,
+      "marginHorizontal": 5,
+      "marginTop": 10,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "borderRadius": 2,
+          "flex": 1,
+          "height": 4,
+          "marginHorizontal": 5,
+        },
+        Object {
+          "backgroundColor": "#ffffff55",
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "borderRadius": 2,
+          "flex": 1,
+          "height": 4,
+          "marginHorizontal": 5,
+        },
+        Object {
+          "backgroundColor": "#ffffff55",
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "borderRadius": 2,
+          "flex": 1,
+          "height": 4,
+          "marginHorizontal": 5,
+        },
+        Object {
+          "backgroundColor": "#ffffff55",
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "borderRadius": 2,
+          "flex": 1,
+          "height": 4,
+          "marginHorizontal": 5,
+        },
+        Object {
+          "backgroundColor": "#ffffff55",
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "borderRadius": 2,
+          "flex": 1,
+          "height": 4,
+          "marginHorizontal": 5,
+        },
+        Object {
+          "backgroundColor": "#ffffff55",
+        },
+      ]
+    }
+  />
+</View>
+`;

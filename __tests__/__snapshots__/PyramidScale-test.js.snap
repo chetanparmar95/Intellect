@@ -1,0 +1,316 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders PyramidScale correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+      "marginTop": 50,
+    }
+  }
+  testID="pyramid"
+>
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontSize": 20,
+        "marginBottom": 20,
+      }
+    }
+  />
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "transparent",
+        "height": 42,
+        "marginVertical": 5,
+        "opacity": 1,
+        "width": 270,
+      }
+    }
+    testID="level5"
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="100%"
+      bbWidth="100%"
+      focusable={false}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          Object {
+            "flex": 0,
+            "height": "100%",
+            "width": "100%",
+          },
+        ]
+      }
+      vbHeight={4}
+      vbWidth={25}
+    >
+      <RNSVGGroup>
+        <RNSVGPath
+          d="M1 0 C 10.6667 0 19.3333 0 24 0 C 26 0 24 4 23 4 C 19 4 11 4 2 4 C 1 4 -1 0 1 0z"
+          fill={4286684584}
+          propList={
+            Array [
+              "fill",
+            ]
+          }
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "transparent",
+        "height": 42,
+        "marginVertical": 5,
+        "opacity": 1,
+        "width": 220,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="100%"
+      bbWidth="100%"
+      focusable={false}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          Object {
+            "flex": 0,
+            "height": "100%",
+            "width": "100%",
+          },
+        ]
+      }
+      vbHeight={4}
+      vbWidth={20}
+    >
+      <RNSVGGroup>
+        <RNSVGPath
+          d="M1 0 C 10.6667 0 13 0 19 0 C 21 0 19 4 18 4 C 12 4 11 4 2 4 C 1 4 -1 0 1 0z"
+          fill={4286684584}
+          propList={
+            Array [
+              "fill",
+            ]
+          }
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "transparent",
+        "height": 42,
+        "marginVertical": 5,
+        "opacity": 1,
+        "width": 170,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="100%"
+      bbWidth="100%"
+      focusable={false}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          Object {
+            "flex": 0,
+            "height": "100%",
+            "width": "100%",
+          },
+        ]
+      }
+      vbHeight={4}
+      vbWidth={15}
+    >
+      <RNSVGGroup>
+        <RNSVGPath
+          d="M1 0 C 2 0 3 0 14 0 C 16 0 14 4 13 4 C 4 4 3 4 2 4 C 1 4 -1 0 1 0z"
+          fill={4286684584}
+          propList={
+            Array [
+              "fill",
+            ]
+          }
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "transparent",
+        "height": 42,
+        "marginVertical": 5,
+        "opacity": 1,
+        "width": 120,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="100%"
+      bbWidth="100%"
+      focusable={false}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          Object {
+            "flex": 0,
+            "height": "100%",
+            "width": "100%",
+          },
+        ]
+      }
+      vbHeight={4}
+      vbWidth={10}
+    >
+      <RNSVGGroup>
+        <RNSVGPath
+          d="M1 0 C 2 0 3 0 9 0 C 11 0 9 4 8 4 C 4 4 3 4 2 4 C 1 4 -1 0 1 0z"
+          fill={4286684584}
+          propList={
+            Array [
+              "fill",
+            ]
+          }
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "transparent",
+        "height": 42,
+        "marginVertical": 5,
+        "opacity": 1,
+        "width": 70,
+      }
+    }
+  >
+    <RNSVGSvgView
+      align="xMidYMid"
+      bbHeight="100%"
+      bbWidth="100%"
+      focusable={false}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          Object {
+            "flex": 0,
+            "height": "100%",
+            "width": "100%",
+          },
+        ]
+      }
+      vbHeight={4}
+      vbWidth={5}
+    >
+      <RNSVGGroup>
+        <RNSVGPath
+          d="M1 0 C 2 0 3 0 4 0 C 6 0 4 4 3 4 C 3 4 3 4 2 4 C 1 4 -1 0 1 0z"
+          fill={4286684584}
+          propList={
+            Array [
+              "fill",
+            ]
+          }
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+</View>
+`;

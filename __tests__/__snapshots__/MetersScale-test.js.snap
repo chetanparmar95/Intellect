@@ -1,0 +1,177 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders MetersScale correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "justifyContent": "space-evenly",
+      "marginVertical": 50,
+    }
+  }
+  testID="meter"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "alignSelf": "center",
+        "borderColor": "#FFFFFF55",
+        "borderRadius": 300,
+        "borderStyle": "dashed",
+        "borderWidth": 1,
+        "height": 600,
+        "justifyContent": "center",
+        "width": 600,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#466d7c",
+          "borderRadius": 225,
+          "height": 450,
+          "justifyContent": "center",
+          "position": "absolute",
+          "width": 450,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../src/assets/images/headspace-progressbar.gif",
+          }
+        }
+        style={
+          Object {
+            "height": 375,
+            "width": 375,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "fontSize": 32,
+            "fontWeight": "bold",
+            "position": "absolute",
+          }
+        }
+        testID="progressText"
+      >
+        NaN
+      </Text>
+      <View
+        style={
+          Object {
+            "position": "absolute",
+          }
+        }
+      >
+        <RNSVGSvgView
+          bbHeight={468.75}
+          bbWidth={468.75}
+          focusable={false}
+          height={468.75}
+          style={
+            Array [
+              Object {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              Object {
+                "flex": 0,
+                "height": 468,
+                "width": 468,
+              },
+            ]
+          }
+          width={468.75}
+        >
+          <RNSVGGroup>
+            <RNSVGGroup
+              matrix={
+                Array [
+                  1,
+                  0,
+                  -0,
+                  1,
+                  0,
+                  0,
+                ]
+              }
+            >
+              <RNSVGPath
+                d="M 234.23087944649924 5.00004527680872 A 229.375 229.375 0 1 0 234.375 5"
+                fill={0}
+                propList={
+                  Array [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                    "strokeLinecap",
+                  ]
+                }
+                stroke={0}
+                strokeLinecap={1}
+                strokeWidth={10}
+              />
+            </RNSVGGroup>
+          </RNSVGGroup>
+        </RNSVGSvgView>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignSelf": "center",
+        "width": 600,
+      }
+    }
+  >
+    <Slider
+      maximumValue={10}
+      minimumTrackTintColor="#6edae6"
+      minimumValue={0}
+      onValueChange={[Function]}
+      testID="slider"
+      thumbStyle={
+        Object {
+          "backgroundColor": "#6edae6",
+          "borderColor": "#c8f6fc",
+          "borderRadius": 10,
+          "borderWidth": 3,
+          "height": 20,
+          "shadowColor": "black",
+          "shadowOffset": Object {
+            "height": 2,
+            "width": 0,
+          },
+          "shadowOpacity": 0.35,
+          "shadowRadius": 2,
+          "width": 20,
+        }
+      }
+      trackStyle={
+        Object {
+          "backgroundColor": "white",
+          "borderRadius": 4,
+          "height": 10,
+          "shadowColor": "black",
+          "shadowOffset": Object {
+            "height": 1,
+            "width": 0,
+          },
+          "shadowOpacity": 0.15,
+          "shadowRadius": 1,
+        }
+      }
+    />
+  </View>
+</View>
+`;
