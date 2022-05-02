@@ -19,8 +19,8 @@ it("renders meters scale", () => {
   const { queryByTestId } = render(<App />)
   const meters = queryByTestId("meter")
   const pyramid = queryByTestId("pyramid")
-  expect(meters).toBeDefined()
-  expect(pyramid).toBeNull()
+  expect(meters).not.toEqual(null)
+  expect(pyramid).toEqual(null)
 })
 
 it("updates UI when clicking on next button", () => {
@@ -28,6 +28,6 @@ it("updates UI when clicking on next button", () => {
   fireEvent.press(getByTestId('Next'))
   const pyramid = queryByTestId("pyramid")
   const meters = queryByTestId("meter")
-  expect(pyramid).toBeDefined()
-  expect(meters).toBeDefined()
+  expect(pyramid).not.toEqual(null)
+  expect(meters).toEqual(null)
 })
